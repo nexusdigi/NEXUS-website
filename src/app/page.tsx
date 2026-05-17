@@ -192,7 +192,7 @@ export default function Home() {
           </p>
 
           <a
-            href="mailto:admin@nexusdigi.cc"
+            href="mailto:hello@nexusdigi.cc"
             className="mt-10 rounded-2xl bg-cyan-400 px-8 py-4 font-semibold text-black shadow-[0_0_45px_rgba(34,211,238,0.35)] transition hover:scale-105 hover:bg-cyan-300"
           >
             hello@nexusdigi.cc
